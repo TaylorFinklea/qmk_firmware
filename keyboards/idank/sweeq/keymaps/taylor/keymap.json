@@ -37,10 +37,10 @@
       "KC_COMM",
       "KC_DOT",
       "LT(1,KC_SCLN)",
-      "ANY(MT(MOD_HYPR,KC_TAB))",
       "LT(8,KC_SPC)",
-      "LT(9,KC_SPC)",
-      "RGUI_T(KC_ENT)"
+      "ANY(MT(MOD_HYPR,KC_TAB))",
+      "RGUI_T(KC_ENT)",
+      "LT(9,KC_SPC)"
     ],
     [
       "KC_TRNS",
@@ -110,8 +110,8 @@
       "KC_END",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_ENT",
-      "KC_ENT",
+      "KC_TRNS",
+      "KC_TRNS",
       "KC_TRNS"
     ],
     [
@@ -146,8 +146,8 @@
       "KC_P3",
       "KC_PEQL",
       "KC_TRNS",
-      "KC_ENT",
-      "KC_ENT",
+      "KC_TRNS",
+      "KC_TRNS",
       "KC_P0"
     ],
     [
