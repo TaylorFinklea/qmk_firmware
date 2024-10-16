@@ -325,10 +325,10 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
+      "KC_NO",
       "KC_TRNS",
-      "KC_NO",
-      "KC_NO",
-      "KC_TRNS"
+      "KC_TRNS",
+      "KC_NO"
     ],
     [
       "KC_TRNS",
@@ -361,10 +361,10 @@
       "KC_BTN3",
       "KC_NO",
       "KC_NO",
+      "KC_NO",
       "KC_TRNS",
-      "KC_NO",
-      "KC_NO",
-      "KC_TRNS"
+      "KC_TRNS",
+      "KC_NO"
     ]
   ],
   "author": "idank"
