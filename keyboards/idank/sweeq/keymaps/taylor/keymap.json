@@ -3,7 +3,7 @@
   "notes": "sweeq default keymap",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "idank/sweeq",
-  "keymap": "idank_sweeq_default",
+  "keymap": "idank_sweeq_idank_sweeq_default",
   "layout": "LAYOUT_split_3x5_2",
   "layers": [
     [
@@ -37,10 +37,10 @@
       "KC_COMM",
       "KC_DOT",
       "LT(1,KC_SCLN)",
-      "LT(8,KC_SPC)",
       "ANY(MT(MOD_HYPR,KC_TAB))",
-      "RGUI_T(KC_ENT)",
-      "LT(9,KC_SPC)"
+      "LT(8,KC_SPC)",
+      "LT(9,KC_SPC)",
+      "RGUI_T(KC_ENT)"
     ],
     [
       "KC_TRNS",
@@ -153,19 +153,19 @@
     [
       "KC_TRNS",
       "KC_NO",
-      "ANY(G(KC_F))",
-      "ANY(G(KC_A))",
+      "LGUI(KC_F)",
+      "LGUI(KC_A)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_VOLD",
       "KC_MUTE",
       "KC_VOLU",
       "KC_TRNS",
-      "ANY(G(KC_K))",
+      "LGUI(KC_K)",
       "KC_NO",
-      "ANY(G(KC_V))",
-      "ANY(G(KC_C))",
-      "ANY(G(KC_X))",
+      "LGUI(KC_V)",
+      "LGUI(KC_C)",
+      "LGUI(KC_X)",
       "ANY(KC_MCTL)",
       "KC_MRWD",
       "KC_MPLY",
@@ -173,7 +173,7 @@
       "ANY(KC_LPAD)",
       "KC_TRNS",
       "KC_NO",
-      "ANY(G(KC_U))",
+      "LGUI(KC_U)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -325,10 +325,10 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
+      "KC_TRNS",
       "KC_NO",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_NO"
+      "KC_NO",
+      "KC_TRNS"
     ],
     [
       "KC_TRNS",
@@ -361,10 +361,10 @@
       "KC_BTN3",
       "KC_NO",
       "KC_NO",
+      "KC_TRNS",
       "KC_NO",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_NO"
+      "KC_NO",
+      "KC_TRNS"
     ]
   ],
   "author": "idank"
