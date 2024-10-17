@@ -38,8 +38,8 @@
       "KC_DOT",
       "LT(1,KC_SCLN)",
       "LGUI_T(KC_TAB)",
-      "LT(8,KC_SPC)",
       "LT(9,KC_SPC)",
+      "LT(8,KC_SPC)",
       "RGUI_T(KC_ENT)"
     ],
     [
@@ -346,11 +346,11 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_BTN5",
+      "KC_BTN4",
       "KC_BTN1",
       "KC_WH_D",
       "KC_BTN2",
-      "KC_BTN4",
+      "KC_BTN5",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
