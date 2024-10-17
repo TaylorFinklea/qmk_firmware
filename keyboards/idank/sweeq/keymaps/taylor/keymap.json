@@ -38,8 +38,8 @@
       "KC_DOT",
       "LT(1,KC_SCLN)",
       "LGUI_T(KC_TAB)",
-      "LT(9,KC_SPC)",
       "LT(8,KC_SPC)",
+      "LT(9,KC_SPC)",
       "RGUI_T(KC_ENT)"
     ],
     [
